@@ -1,0 +1,37 @@
+.App{
+  background-color: aqua;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.header{
+  margin: 0;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+  background-color: black;
+}
+
+.todoInput{
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  width: 90%;
+  max-width: 800px;
+}
+
+.btn{
+  border: none;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.todoList{
+  padding: 0;
+  list-style-type: none;
+}

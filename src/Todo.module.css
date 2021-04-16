@@ -1,0 +1,31 @@
+.listItem{
+    box-shadow: 2px 2px 4px grey;
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.todo{
+    text-align: left;
+    font-size: 18px;
+    margin: 0;
+    padding: 15px;
+}
+
+.taskStatus{
+    font-size: 15px;
+    color: gray;
+    font-style: italic;
+}
+
+.btn{
+    border: none;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    border-radius: 5px;
+}
